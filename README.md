@@ -26,14 +26,21 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+react is a javascript framework library that allows you to import components from differnet section to compartmentalize your work. it trys to make your work easier to handle/correct so you dont have to change everything
+
 - [ ] What does it mean to _think_ in react?
 
+it is to imagine your code in components and component trees.
+
+
 - [ ] Describe state.
+asynchronous code that can be modified to what the user wants to implement.
 
 - [ ] Describe props.
+code that can not be modified and is read-only, you cant customize to fit your code.
 
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
-
+a side effect in react is anything that affects your code outside of the component structure that youre intending to modify. you sync effects by importing the useEffect state
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
